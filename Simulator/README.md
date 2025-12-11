@@ -2,7 +2,7 @@
 
 This is a simulator for the TD4 4-bit CPU, build using the Digital logic simulator, which can be found here: https://github.com/hneemann/Digital
 
-More details here: 
+More details here: https://emalliab.wordpress.com/2025/11/26/td4-4-bit-diy-cpu-part-8/
 
 # License
 

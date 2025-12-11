@@ -3,6 +3,7 @@
 This is my own implementation of the TD4 4-bit CPU that uses an Arduino Nano instead of DIP switches for the ROM.
 
 Full details here: https://emalliab.wordpress.com/2025/11/26/td4-4-bit-diy-cpu-part-8/
+Arduino Sketch here: https://github.com/diyelectromusic/sdemp/tree/main/src/Misc/TD4_ROM_asm
 
 If you like what you see, you can buy me a Ko-Fi - https://ko-fi.com/diyelectromusic
 
